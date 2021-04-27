@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hair2U</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+
+    <string name="menu_home">Produtos</string>
+    <string name="menu_gallery">Serviços</string>
+    <string name="menu_slideshow">Profissionais</string>
+    <string name="botao_voltar_login">Voltar</string>
+    <string name="mensagem_inicial">Olá</string>
+    <string name="mensagem_login">LOGIN</string>
+    <string name="mensagem_login_usuario">ling message</string>
+    <string name="text_input_user">messageLOGIN</string>
+    <string name="mensagem_login_senha">SENHA</string>
+    <string name="text_input_password">HINT</string>
+    <string name="botao_user">BOTAO</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="buscar">pesquisar</string>
+    <string name="atualizar">atualizar</string>
+    <string name="title_activity_login">Hair2u</string>
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bem Vindo!"</string>
+    <string name="invalid_username">Usuario Invalido</string>
+    <string name="invalid_password">Senha Invalida</string>
+    <string name="login_failed">"Login Falhou"</string>
+</resources>
